@@ -1,0 +1,17 @@
+.contents-table ul li {
+	margin: 0 5px;
+	text-transform: uppercase;
+	font-family: $sans-serif;
+	font-size: 10px;
+	color: $dark-gray;
+}
+
+.contents-table ul {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.contents-table { 
+
+}
